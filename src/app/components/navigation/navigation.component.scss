@@ -1,0 +1,10 @@
+.navigation {
+  &__row {
+    justify-content: space-between;
+  }
+  &__spacer {
+  }
+  &__logout:hover {
+    cursor: pointer;
+  }
+}
